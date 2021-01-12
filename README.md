@@ -1,1 +1,1 @@
-# CoronavirisDataChart
+# CoronavirusDataChart
